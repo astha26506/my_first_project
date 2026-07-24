@@ -26,3 +26,10 @@ Welcome to my Data Analysis repository! This portfolio contains exploratory data
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Plotly Express, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
+
+
+
+### 4. 📊 ![Power BI Sales Dashboard](dashboard.preview.png.jpeg)
+* **Objective:** Interactive dashboard analyzing sales trends, profit margins, and regional performance.
+* **Tech Stack:** Power BI, DAX, Data Modeling.
+
